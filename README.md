@@ -2,7 +2,7 @@
 - 👀 I’m interested in OpenSource DeepTech especially in Africa
 - 🌱 I’m currently learning Data Privacy, Decentralised Architecture and Future of Web.
 - 💞️ I’m looking to collaborate on OpenSource projects.
-- 📫 How to reach me : badreddine@ankaboot.fr
+- 📫 Reach me by email or on Matrix baderdean@matrix.org
 
 <!---
 baderdean/baderdean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
