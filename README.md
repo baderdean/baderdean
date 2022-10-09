@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @baderdean
+- 👔 I'm an Independant Hacker @ ankaboot - Customer-engagement Tech
 - 👀 I’m interested in OpenSource DeepTech especially in Africa
 - 🌱 I’m currently learning Data Privacy, Decentralised Architecture and Future of Web.
 - 💞️ I’m looking to collaborate on OpenSource projects.
